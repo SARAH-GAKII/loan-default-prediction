@@ -18,7 +18,7 @@ This project develops and evaluates multiple machine learning classification mod
 
 <tr>
 <td><img src="random_forest_confusion_matrix.png" width="100%"></td>
-<td><img src="keys_drivers.png" width="100%"></td>
+<td><img src="key_drivers.png" width="100%"></td>
 </tr>
 </table>
 
