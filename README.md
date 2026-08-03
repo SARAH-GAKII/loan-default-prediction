@@ -10,6 +10,18 @@ Lending institutions face the challenge of balancing business growth with credit
 
 This project develops and evaluates multiple machine learning classification models to predict loan default using borrower financial and credit characteristics. Beyond predictive performance, the project emphasizes model interpretability, allowing lending institutions to understand the factors influencing risk and support more transparent lending decisions.
 
+<table>
+<tr>
+<td align="center"><b>Random Forest Confusion Matrix</b></td>
+<td align="center"><b>Key Drivers of Loan Default</b></td>
+</tr>
+
+<tr>
+<td><img src="random_forest_confusion_matrix.png" width="100%"></td>
+<td><img src="keys_drivers.png" width="100%"></td>
+</tr>
+</table>
+
 ---
 
 ## Business Problem
