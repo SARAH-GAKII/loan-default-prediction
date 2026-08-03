@@ -125,7 +125,7 @@ The confusion matrix shows that the selected model correctly identifies the majo
 
 The Random Forest model provides insight into the variables contributing most to credit risk.
 
-![Feature Importance](feature_importance.png)
+![Key Drivers of Loan Default Risk](key_drivers.png)
 
 The most influential predictors include:
 
