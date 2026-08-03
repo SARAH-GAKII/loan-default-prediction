@@ -12,13 +12,13 @@ This project develops and evaluates multiple machine learning classification mod
 
 <table>
 <tr>
-<td align="center"><b>Random Forest Confusion Matrix</b></td>
 <td align="center"><b>Key Drivers of Loan Default</b></td>
+<td align="center"><b>Random Forest Confusion Matrix</b></td>
 </tr>
 
 <tr>
-<td><img src="random_forest_confusion_matrix.png" width="100%"></td>
 <td><img src="key_drivers.png" width="100%"></td>
+<td><img src="random_forest_confusion_matrix.png" width="100%"></td>
 </tr>
 </table>
 
