@@ -130,12 +130,11 @@ The Random Forest model provides insight into the variables contributing most to
 The most influential predictors include:
 
 * Debt-to-income ratio
-* Age of the oldest credit line
 * Property value
+* Age of the oldest credit line
 * Existing mortgage balance
-* Loan amount
 * Number of credit lines
-* Years at current job
+* Loan amount
 
 These variables capture both a borrower's current financial position and long-term credit behavior, making them valuable indicators of repayment risk.
 
